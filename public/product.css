@@ -1,0 +1,33 @@
+h1 {
+  font-size: 3.5rem;
+  color: #c70039;
+  margin-left: 3%;
+  margin-top: 1%;
+}
+
+.mask {
+  width: 50%;
+}
+
+body {
+  text-align: center;
+  background-color: white;
+}
+
+.quality {
+  text-align: justify;
+  font-weight: bold;
+  padding: 20px;
+  width: 50%;
+  background-color: #a6dcef;
+  margin: 0 auto;
+}
+
+.fivelayer {
+  text-align: justify;
+  font-weight: bold;
+  padding: 20px;
+  width: 50%;
+  background-color: white;
+  margin: 0 auto;
+}

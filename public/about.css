@@ -1,0 +1,23 @@
+video {
+  width: 100%;
+  height: auto;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  background-color: white;
+}
+
+h1 {
+  color: #c70039;
+}
+
+.mask {
+  width: 100%;
+
+}
+
+.col-4 {
+  padding: 0;
+}
